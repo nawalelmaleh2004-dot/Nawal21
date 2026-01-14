@@ -1,0 +1,22 @@
+body {
+  background-color: #fce4ec;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: #880e4f;
+}
+
+p {
+  font-size: 18px;
+}
+
+.box {
+  background-color: white;
+  width: 250px;
+  margin: auto;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px pink;
+}
