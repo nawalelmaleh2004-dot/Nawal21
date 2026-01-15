@@ -24,3 +24,22 @@ p {
 #notes {
     border: red solid 11px;
 }
+.navbar{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: #222;
+  padding: 12px;
+  text-align: center;
+}
+
+.navbar a{
+  color: white;
+  margin: 10px;
+  text-decoration: none;
+  font-weight: bold;
+}
+body{
+  margin-top: 70px;
+}
