@@ -1,0 +1,23 @@
+.container {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 30px;
+}
+
+.container img {
+  width: 100%;
+  max-width: 500px;
+  margin: auto;
+}
+
+
+
+.container header {
+    background-color: lightblue;
+    grid-column: 1 / 5;
+    text-align: center;
+}
+
+.container div {
+    text-align: center;
+}
